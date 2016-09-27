@@ -1,0 +1,16 @@
+PODS:
+  - ObjCUtils (0.1.0)
+
+DEPENDENCIES:
+  - ObjCUtils (from `../`)
+
+EXTERNAL SOURCES:
+  ObjCUtils:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ObjCUtils: 21b8d6a5e934ecb3d463a2a7762a2b5aa08b661f
+
+PODFILE CHECKSUM: c9f056f95eddf0c353b14e6508258a6385a5f94b
+
+COCOAPODS: 1.0.1
